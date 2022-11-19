@@ -1,0 +1,13 @@
+body{
+	font-size: 13.5px;
+	background-color: rgb(255, 255, 224);
+}
+
+h3{
+	text-align: center;
+	color: red;
+}
+
+.wrapper{
+	margin: 30px 10px;
+}
